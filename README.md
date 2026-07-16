@@ -1,21 +1,21 @@
 # IL.00.Vz
+Derrick scrubbed all his creations, and this project was almost forgotten.
 
-<!--
 ## INTRODUCTION
 This is a heavily modifed Creality K1/K1 Max inspired by [VzBoT](https://github.com/VzBoT3D).
-
-Join my [Discord](http://discord.gg/novusterminus)
-
-[K1VZ 3D Viewer](https://collaborate.shapr3d.com/v/g7WvazfItJmMossNty6Cj)
-
-[K1VZ Max 3D Viewer](https://collaborate.shapr3d.com/v/ZGCv1NjKbROWeMaYcBegq)
-
-If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
--->
+You might want to support Derrick [by giving him money.](https://ko-fi.com/derrickdarrell)
 
 ## BOM
-You can foresee the BOM if you understand VzBoTs really well.
-Official one is coming soon.
+You can foresee the BOM if you understand VzBoTs really well.<br>
+Or you can mix-and-match different mods yourself, such as:
+- a Gantry V2 build on 48 V
+- a K1Vz build on other brackets
+- an FBG build on 60 V
+- any multi-voltage build you could think of
+
+# AN EXPLICITLY MASSIVE SAFETY HAZARD BEFORE GOING >30 V!!!!!!!!!!!!!!!!!!!!!!!
+If you plan to go beyond 30 V, step back from this mod.
+Be always ready to separate the power rails for each motor, since you're likely using the 2209s for the Z motors.
 
 ## Print Settings
 For ABS/ASA:
