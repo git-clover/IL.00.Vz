@@ -30,4 +30,4 @@ If you have enough money for PC-CF:
 - 7 top/bottom
 - 27% infill
 - Some require supports. You may waste a little bit of PC-CF.
-- Don't print directly on PEI. I did, wasting THREE plates(=$80).
+- Don't print directly on PEI. **USE RELEASE AGENTS,** or you'll waste your plate immediately. It sticks too well.
