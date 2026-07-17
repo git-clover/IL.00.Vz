@@ -13,9 +13,16 @@ Or you can mix-and-match different mods yourself, such as:
 - an FBG build on 60 V
 - any multi-voltage build you could think of
 
-# AN EXPLICITLY MASSIVE SAFETY HAZARD BEFORE GOING >30 V!!!!!!!!!!!!!!!!!!!!!!!
-If you plan to go beyond 30 V, step back from this mod.
-Be always ready to separate the power rails for each motor, since you're likely using the 2209s for the Z motors.
+# BIG SAFETY HAZARD BEFORE GOING >30 V!!!!!!
+If you plan to go beyond 30 V, step back from this mod.<br>
+TMC2209s are very well-known for NOT supporting anywhere beyond 28 V.<br>
+Other common traps include:
+- TMC2240 (33 V)
+- TMC222x (31 V)
+- TMC2130 (41 V)
+- Random stepstick TMC5160
+
+The drivers must have their own documentations! **READ THEM PRIOR TO YOUR PURCHASE!**
 
 ## Print Settings
 For ABS/ASA:
