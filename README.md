@@ -1,5 +1,6 @@
 # IL.00.Vz
-Derrick scrubbed all his creations, and this project was almost forgotten.
+Derrick scrubbed all his creations, and this project was almost forgotten.<br>
+Pity me for my work trying to restore this, and thank you u/LookAtDaShinyShiny for NOT having me cry to flood my repositories.
 
 ## INTRODUCTION
 This is a heavily modifed Creality K1/K1 Max inspired by [VzBoT](https://github.com/VzBoT3D).
@@ -8,9 +9,10 @@ You might want to support Derrick [by giving him money.](https://ko-fi.com/derri
 ## BOM
 You can foresee the BOM if you understand VzBoTs really well.<br>
 Or you can mix-and-match different mods yourself, such as:
-- a Gantry V2 build on 48 V
-- a K1Vz build on other brackets
-- an FBG build on 60 V
+- a Gantry V2 build on 41 V
+- a K1Vz build with other boards (Stay aware! Some don't support anywhere beyond 24 V at all.)
+- an FBG build on 60 V (Mine is double-shear!)
+- trying to get 2000 mm/s out of a die-cast frame
 - any multi-voltage build you could think of
 
 # BIG SAFETY HAZARD BEFORE GOING >30 V!!!!!!
@@ -19,8 +21,10 @@ TMC2209s are very well-known for NOT supporting anywhere beyond 28 V.<br>
 Other common traps include:
 - TMC2240 (33 V)
 - TMC222x (31 V)
-- TMC2130 (41 V)
-- Random stepstick TMC5160
+- A4988 (Will not even work with the M8P!)
+- DRV8825 (Will not work either!)
+- TMC2130 (45 V)
+- Random stepstick TMC5160 (Dangerous!)
 
 The drivers must have their own documentations! **READ THEM PRIOR TO YOUR PURCHASE!**
 
@@ -33,8 +37,11 @@ For ABS/ASA:
 - Some small parts will require brim
 
 If you have enough money for PC-CF:
-- 3 walls
-- 7 top/bottom
+- 5 walls
+- 5 top/bottom
 - 27% infill
 - Some require supports. You may waste a little bit of PC-CF.
 - Don't print directly on PEI. **USE RELEASE AGENTS,** or you'll waste your plate immediately. It sticks too well.
+
+# PLEASE READ THIS! I BEG YOU!
+If you were about to use PETG for the gantry parts, **don't.**<br>
