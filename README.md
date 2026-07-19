@@ -9,7 +9,7 @@ You might want to support Derrick [by giving him money.](https://ko-fi.com/derri
 ## BOM
 You can foresee the BOM if you understand VzBoTs really well.<br>
 Or you can mix-and-match different mods yourself, such as:
-- a Gantry V2 build on 41 V
+- a Gantry V2 build on 48 V
 - a K1Vz build with other boards (Stay aware! Some don't support anywhere beyond 24 V at all.)
 - an FBG build on 60 V (Mine is double-shear!)
 - trying to get 2000 mm/s out of a die-cast frame
@@ -30,18 +30,20 @@ The drivers must have their own documentations! **READ THEM PRIOR TO YOUR PURCHA
 
 ## Print Settings
 For ABS/ASA:
-- 4 walls
+- 7 walls
 - 5 top/bottom
-- 50% infill
+- 40% infill
 - Some parts require supports
 - Some small parts will require brim
 
 If you have enough money for PC-CF:
 - 5 walls
 - 5 top/bottom
-- 27% infill
+- 25% infill
 - Some require supports. You may waste a little bit of PC-CF.
 - Don't print directly on PEI. **USE RELEASE AGENTS,** or you'll waste your plate immediately. It sticks too well.
 
-# PLEASE READ THIS! I BEG YOU!
+# I dare you ask questions about PETG...cuz why not?
 If you were about to use PETG for the gantry parts, **don't.**<br>
+Rather than melting at the spot, your gantry will first turn into jello. This is called glass transition.<br>
+I shouldn't have to explain more, but easily said, **just use ABS.**
