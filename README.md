@@ -33,15 +33,15 @@ For ABS/ASA:
 - 7 walls
 - 5 top/bottom
 - 40% infill
-- Some parts require supports
-- Some small parts will require brim
+- Some require supports, but your eyes always know.
+- Set brim to "mouse ears" and use it for any small parts. You can save filament and stick parts better.
 
 If you have enough money for PC-CF:
 - 5 walls
 - 5 top/bottom
-- 25% infill
-- Some require supports. You may waste a little bit of PC-CF.
-- Don't print directly on PEI. **USE RELEASE AGENTS,** or you'll waste your plate immediately. It sticks too well.
+- 29% infill
+- Some require supports, but your eyes always know.
+- Don't print directly on PEI. It'll weld to each other.
 
 # I dare you ask questions about PETG...cuz why not?
 If you were about to use PETG for the gantry parts, **don't.**<br>
