@@ -1,6 +1,7 @@
 # IL.00.Vz
 Derrick scrubbed all his creations, and this project was almost forgotten.<br>
-Pity me for my work trying to restore this, and thank you u/LookAtDaShinyShiny for NOT having me cry to flood my repositories.
+Pity me for my work trying to restore this, and thank you u/LookAtDaShinyShiny for NOT having me cry to flood my repositories.<br>
+That's all because ```I'm a cyborg```, and I corrode to death if I cry too much.
 
 ## INTRODUCTION
 This is a heavily modifed Creality K1/K1 Max inspired by [VzBoT](https://github.com/VzBoT3D).
