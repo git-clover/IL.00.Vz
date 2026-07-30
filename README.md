@@ -11,8 +11,8 @@ You might want to support Derrick [by giving him money.](https://ko-fi.com/derri
 You can foresee the BOM if you understand VzBoTs really well.<br>
 Or you can mix-and-match different mods yourself, such as:
 - a Gantry V2 build on 48 V
-- a K1Vz build with other boards (Stay aware! Some don't support anywhere beyond 24 V at all.)
-- an FBG build on 60 V (Mine is double-shear!)
+- a K1Vz build with other boards (Stay aware! They often don't have double PSU mounts.)
+- an FBG build on 60 V (Mine is double-shear! Coming soon.)
 - trying to get 2000 mm/s out of a die-cast frame
 - any multi-voltage build you could think of
 
@@ -42,7 +42,7 @@ If you have enough money for PC-CF:
 - 5 top/bottom
 - 29% infill
 - Some require supports, but your eyes always know.
-- Don't print directly on PEI. It'll weld to each other.
+- Don't print directly on PEI, or that area of PEI will be gone for Inferno...forever. 😈
 
 # I dare you ask questions about PETG...cuz why not?
 If you were about to use PETG for the gantry parts, **don't.**<br>
