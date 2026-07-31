@@ -4,8 +4,8 @@ Pity me for my work trying to restore this, and thank you u/LookAtDaShinyShiny f
 That's all because ```I'm a cyborg```, and I corrode to death if I cry too much.
 
 ## INTRODUCTION
-This is a heavily modifed Creality K1/K1 Max inspired by [VzBoT](https://github.com/VzBoT3D).
-<!-- You might want to support Derrick [by giving him money.](https://ko-fi.com/derrickdarrell) -->
+This is a heavily modifed Creality K1/K1 Max inspired by [VzBoT](https://github.com/VzBoT3D).<br>
+Better when paired with a new bed frame: [now on IL.00!](https://github.com/git-clover/IL.00)
 
 ## BOM
 You can foresee the BOM if you understand VzBoTs really well.<br>
@@ -16,7 +16,7 @@ Or you can mix-and-match different mods yourself, such as:
 - trying to get 2000 mm/s out of a die-cast frame
 - any multi-voltage build you could think of
 
-# BIG SAFETY HAZARD BEFORE GOING >30 V!!!!!!
+# BIG SAFETY HAZARD EVERYWHERE!!!!!!!!!!!!!!!!!!!!!!!!
 If you plan to go beyond 30 V, dare to tweak around with 5160s.<br>
 TMC2209s are very well-known for NOT supporting anywhere beyond 28 V.<br>
 Other common traps include:
