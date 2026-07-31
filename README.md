@@ -17,7 +17,7 @@ Or you can mix-and-match different mods yourself, such as:
 - any multi-voltage build you could think of
 
 # BIG SAFETY HAZARD BEFORE GOING >30 V!!!!!!
-If you plan to go beyond 30 V, step back from this mod.<br>
+If you plan to go beyond 30 V, dare to tweak around with 5160s.<br>
 TMC2209s are very well-known for NOT supporting anywhere beyond 28 V.<br>
 Other common traps include:
 - TMC2240 (33 V)
@@ -27,7 +27,10 @@ Other common traps include:
 - TMC2130 (45 V)
 - Random stepstick TMC5160 (Dangerous!)
 
-The drivers must have their own documentations! **READ THEM PRIOR TO YOUR PURCHASE!**
+**ALL** stepstick drivers, especially ones that have DuPont jacks, only can deliver juice up to 2 amps. Only 5160s can do 3 amps.<br>
+You do NOT want your precious drivers melting just because you wanted to print like a rocket. It'll set your printer on fire.
+
+So PLEASE read the instructions BEFORE you buy stuff.
 
 ## Print Settings
 For ABS/ASA:
@@ -42,7 +45,7 @@ If you have enough money for PC-CF:
 - 5 top/bottom
 - 29% infill
 - Some require supports, but your eyes always know.
-- Don't print directly on PEI, or that area of PEI will be gone for Inferno...forever. 😈
+- It tends to weld to PEI a little too well. PLEASE consider using release agents.
 
 # I dare you ask questions about PETG...cuz why not?
 If you were about to use PETG for the gantry parts, **don't.**<br>
