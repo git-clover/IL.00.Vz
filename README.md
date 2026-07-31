@@ -5,7 +5,7 @@ That's all because ```I'm a cyborg```, and I corrode to death if I cry too much.
 
 ## INTRODUCTION
 This is a heavily modifed Creality K1/K1 Max inspired by [VzBoT](https://github.com/VzBoT3D).
-You might want to support Derrick [by giving him money.](https://ko-fi.com/derrickdarrell)
+<!-- You might want to support Derrick [by giving him money.](https://ko-fi.com/derrickdarrell) -->
 
 ## BOM
 You can foresee the BOM if you understand VzBoTs really well.<br>
@@ -47,4 +47,6 @@ If you have enough money for PC-CF:
 # I dare you ask questions about PETG...cuz why not?
 If you were about to use PETG for the gantry parts, **don't.**<br>
 Rather than melting at the spot, your gantry will first turn into jello. This is called glass transition.<br>
+And what else will happen when the very thing fixing the motor turns into jello? It'll fall mid-print.<br>
+You don't have a Voron 2.4. It's a VzBoT. You think your K1 could have flying gantry?<br>
 I shouldn't have to explain more, but easily said, **just use ABS.**
