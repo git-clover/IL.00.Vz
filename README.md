@@ -13,7 +13,7 @@ Or you can mix-and-match different mods yourself, such as:
 - a Gantry V2 build on 48 V
 - a K1Vz build with other boards (Stay aware! They often don't have double PSU mounts.)
 - an FBG build on 60 V (Mine is double-shear! Coming soon.)
-- trying to get 2000 mm/s out of a die-cast frame
+- trying to get 2000 mm/s out of a die-cast frame (Do it! You're SO ready if you know the entire BOM only from this sentence)
 - any multi-voltage build you could think of
 
 # BIG SAFETY HAZARD EVERYWHERE!!!!!!!!!!!!!!!!!!!!!!!!
@@ -30,7 +30,7 @@ Other common traps include:
 **ALL** stepstick drivers, especially ones that have DuPont jacks, only can deliver juice up to 2 amps. Only 5160s can do 3 amps.<br>
 You do NOT want your precious drivers melting just because you wanted to print like a rocket. It'll set your printer on fire.
 
-So PLEASE read the instructions BEFORE you buy stuff.
+If you still don't understand what those mean, **get out of here and come back later.**
 
 ## Print Settings
 For ABS/ASA:
